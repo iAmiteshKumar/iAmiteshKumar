@@ -66,9 +66,6 @@ A seasoned developer with over **15 years of experience** in full-stack embedded
 *   **Secure Boot:** Custom GRUB scripting for TPM and LUKS-based rootfs security.
 
 ---
-# 🚀 Freelancing Sites
-A curated list of top platforms for freelance and remote opportunities.
-
 ### 👤 Find My Profile & Connect over below Freelance and Remote Job Boards
 *Reach out to me directly on my preferred platforms:*
 - 📈 [**Upwork**](https://www.upwork.com/freelancers/~01aeeccd37907a962b)
