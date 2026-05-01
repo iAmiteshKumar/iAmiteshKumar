@@ -4,6 +4,14 @@
 
 [🚀 Resume | CV](https://iamiteshkumar.github.io/)
 
+## 📄 Resume & Job Profile 
+- 🌐 [**Personal Website / Portfolio**](https://iamiteshkumar.github.io/)
+- 🔗 [**LinkedIn**](https://www.linkedin.com/in/iamiteshkr/)
+- 💻 [**GitHub**](https://github.com/iAmiteshKumar)
+- 🆔 [**ORCID Profile**](https://orcid.org/0009-0003-5953-5923)
+- 💬 [**Signal Me**](https://signal.me/#eu/52NiRNfli3OIIYAKcNQWbG3KxkXt14d0vfmqNzDhbz1JRL5bClNPW5RPe0I4_I3G)
+- 📧 [**Email**](mailto:iAmiteshKr@gmail.com)
+
 ---
 
 ## 📄 Executive Summary
@@ -57,13 +65,6 @@ A seasoned developer with over **15 years of experience** in full-stack embedded
 *   **WasmEdge Integration:** Porting client/server components to WebAssembly.
 *   **Secure Boot:** Custom GRUB scripting for TPM and LUKS-based rootfs security.
 
-## 📄 Resume & Job Profile 
-- 🌐 [**Personal Website / Portfolio**](https://iamiteshkumar.github.io/)
-- 🔗 [**LinkedIn**](https://www.linkedin.com/in/iamiteshkr/)
-- 💻 [**GitHub**](https://github.com/iAmiteshKumar)
-- 🆔 [**ORCID Profile**](https://orcid.org/0009-0003-5953-5923)
-- 💬 [**Signal Me**](https://signal.me/#eu/52NiRNfli3OIIYAKcNQWbG3KxkXt14d0vfmqNzDhbz1JRL5bClNPW5RPe0I4_I3G)
-- 📧 [**Email**](mailto:iAmiteshKr@gmail.com)
 ---
 # 🚀 Freelancing Sites
 A curated list of top platforms for freelance and remote opportunities.
