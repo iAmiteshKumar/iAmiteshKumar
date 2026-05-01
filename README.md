@@ -11,11 +11,10 @@
 - 🆔 [**ORCID Profile**](https://orcid.org/0009-0003-5953-5923)
 - 💬 [**Signal Me**](https://signal.me/#eu/52NiRNfli3OIIYAKcNQWbG3KxkXt14d0vfmqNzDhbz1JRL5bClNPW5RPe0I4_I3G)
 - 📧 [**Email**](mailto:iAmiteshKr@gmail.com)
-
+*   📞 **Phone:** [+91 9599806564](tel:+919599806564)
 ---
-
+*   🔋 **Status:** `Available for Freelance & Remote Projects`
 ---
-
 ## 📄 Executive Summary
 A seasoned architect with over **15 years of experience** 🏗️ in full-stack embedded development. I specialize in building high-performance networking protocols 〰️, implementing advanced cryptographic security 🛡️, and architecting robust systems using **C, Rust, Go, and Lua**.
 
@@ -61,16 +60,6 @@ A seasoned architect with over **15 years of experience** 🏗️ in full-stack 
 *   〰️ **XDP Monitoring:** Building high-speed eBPF firewalls.
 *   🔌 **WasmEdge:** Porting complex client/server logic to WebAssembly.
 *   🔐 **Secure Boot:** Custom GRUB/TPM/LUKS hardening.
-
----
-
-### 📬 Contact & Connect
-*   📧 **Email:** [iAmiteshKr@gmail.com](mailto:iAmiteshKr@gmail.com)
-*   🔗 **LinkedIn:** [iamiteshkr](https://linkedin.com)
-*   💬 **Signal:** [Message Me](https://signal.me)
-*   📞 **Phone:** [+91 9599806564](tel:+919599806564)
-*   🔋 **Status:** `Available for Freelance & Remote Projects`
-
 
 ---
 ### 👤 Find My Profile & Connect over below Freelance and Remote Job Boards
