@@ -22,4 +22,6 @@ A curated list of top platforms for freelance and remote opportunities.
 ---
 ### 💰 Global multi currency inward remittance/Payment for freelancers
 - 💳 [**Infinity App**](https://dashboard.infinityapp.in/auth/signup?referralCode=V1TzTNl6)
+- ☁️ [**Skydo**](https://join.skydo.com/amitesh-kumar)
+- ⚡ [**BriskPe**](https://web.briskpe.com/auth/signup/?referralCode=CU549624)
 
