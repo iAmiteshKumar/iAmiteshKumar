@@ -77,7 +77,6 @@ A seasoned developer with over **15 years of experience** in full-stack embedded
 - 🧠 [**Braintrust**](https://app.usebraintrust.com/r/amitesh33/)
 - 🚀 [**goLance**](https://golance.com/freelancer/amitesh-kumar)
 - 🤝 [**Contra**](https://contra.com/amitesh_kumar_32xr5mfp)
-- 🐘 [**Grey**](https://app.grey.co/auth/register?referral=N7W6AO)
 ---
 ### 💰 Global multi currency inward remittance/Payment for freelancers
 - 💳 [**Infinity App**](https://dashboard.infinityapp.in/auth/signup?referralCode=V1TzTNl6)
@@ -88,4 +87,6 @@ A seasoned developer with over **15 years of experience** in full-stack embedded
 - 🍷 [**Winvesta**](https://pay.winvesta.in/sign-up?referral=AMITESHK84608)
 - 🇮🇳 [**Mulya**](https://mulya.co?referredBy=69dc743554872b0013e5de1d)
 - 🏓 [**PingPong**](https://business.pingpongx.com/entrance/signup?inviteCode=240621IImx&event_operation=referral_signup)
+- 🐘 [**Grey**](https://app.grey.co/auth/register?referral=N7W6AO)
+---
 
