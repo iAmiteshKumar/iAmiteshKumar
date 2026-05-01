@@ -9,6 +9,8 @@ A curated list of top platforms for freelance and remote opportunities.
 *Reach out to me directly on my preferred platforms:*
 - 🟢 [**Fiverr**](https://www.fiverr.com/s/yv3yooV)
 - 🏢 [**Freelancer**](https://www.freelancer.com/u/iAmiteshKr)
+- 🥨 [**Malt**](https://www.malt.com/profile/amiteshkumar)
+
 
 ---
 
