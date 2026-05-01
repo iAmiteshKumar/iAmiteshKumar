@@ -1,28 +1,30 @@
 # 🚀 Freelancing Sites
 A curated list of top platforms for freelance and remote opportunities.
 
+## 📄 Resume & Job Profile 
+- 🌐 [**Personal Website / Portfolio**](https://iamiteshkumar.github.io/)
+- 📧 [**Email**](mailto:iAmiteshKr@gmail.com)
+
 ### 👤 Find My Profile & Connect
 *Reach out to me directly on my preferred platforms:*
-
-- 🟢 **Fiverr:** [fiverr.com/s/Ldjoyv4](https://www.fiverr.com/s/Ldjoyv4)
-- 🏢 **Freelancer:** [freelancer.com/u/iAmiteshKr](https://www.freelancer.com/u/iAmiteshKr)
-- 📧 **Email:** [iAmiteshKr@gmail.com](mailto:iAmiteshKr@gmail.com)
+- 🟢 [**Fiverr**](https://www.fiverr.com/s/yv3yooV)
+- 🏢 [**Freelancer**](https://www.freelancer.com/u/iAmiteshKr)
 
 ---
 
 ### 🌍 Freelance & Remote Job Boards
-*Other platforms where you can find my work or explore listings:*
+*Platforms to explore listings or view my professional profile:*
 
-- 🥨 **Malt:** [malt.com](http://malt.com)
-- 🎓 **Guru:** [guru.com](https://guru.com)
-- 🧠 **Braintrust:** [usebraintrust.com](https://usebraintrust.com)
-- 📝 **SimplyHired:** [simplyhired.com](https://simplyhired.com)
-- 💻 **Remote OK:** [remoteok.com](https://remoteok.com)
-- 🗺️ **Freelancermap:** [freelancermap.com](https://freelancermap.com)
-- 🤝 **Contra:** [contra.com](https://contra.com)
-- 📈 **Upwork:** [upwork.com](https://upwork.com)
-- 🛠️ **Hubstaff Talent:** [hubstaff.com](https://hubstaff.com)
-- 🇫🇷 **ComeUp:** [comeup.com](https://comeup.com)
-- 🏠 **We Work Remotely:** [weworkremotely.com](https://weworkremotely.com)
-- 🚀 **goLance:** [golance.com](https://golance.com)
-- ⏱️ **PeoplePerHour:** [peopleperhour.com](https://peopleperhour.com)
+- 🥨 [**Malt**](http://malt.com)
+- 🎓 [**Guru**](https://guru.com)
+- 🧠 [**Braintrust**](https://usebraintrust.com)
+- 📝 [**SimplyHired**](https://simplyhired.com)
+- 💻 [**Remote OK**](https://remoteok.com)
+- 🗺️ [**Freelancermap**](https://freelancermap.com)
+- 🤝 [**Contra**](https://contra.com)
+- 📈 [**Upwork**](https://upwork.com)
+- 🛠️ [**Hubstaff Talent**](https://hubstaff.com)
+- 🇫🇷 [**ComeUp**](https://comeup.com)
+- 🏠 [**We Work Remotely**](https://weworkremotely.com)
+- 🚀 [**goLance**](https://golance.com)
+- ⏱️ [**PeoplePerHour**](https://peopleperhour.com)
