@@ -20,4 +20,6 @@ A curated list of top platforms for freelance and remote opportunities.
 - 🤝 [**Contra**](https://contra.com/amitesh_kumar_32xr5mfp)
 
 ---
+### 💰 Global multi currency inward remittance/Payment for freelancers
+- 💳 [**Infinity App**](https://dashboard.infinityapp.in/auth/signup?referralCode=V1TzTNl6)
 
