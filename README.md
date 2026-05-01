@@ -24,4 +24,5 @@ A curated list of top platforms for freelance and remote opportunities.
 - 💳 [**Infinity App**](https://dashboard.infinityapp.in/auth/signup?referralCode=V1TzTNl6)
 - ☁️ [**Skydo**](https://join.skydo.com/amitesh-kumar)
 - ⚡ [**BriskPe**](https://web.briskpe.com/auth/signup/?referralCode=CU549624)
+- 🌊 [**Xflowpay**](https://dashboard.xflowpay.com/referral/iAmiteshKr)
 
