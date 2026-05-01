@@ -4,6 +4,7 @@ A curated list of top platforms for freelance and remote opportunities.
 ## 📄 Resume & Job Profile 
 - 🌐 [**Personal Website / Portfolio**](https://iamiteshkumar.github.io/)
 - 🔗 [**LinkedIn**](https://www.linkedin.com/in/iamiteshkr/)
+- 💻 [**GitHub**](https://github.com/iAmiteshKumar)
 - 📧 [**Email**](mailto:iAmiteshKr@gmail.com)
 
 ### 👤 Find My Profile & Connect over below Freelance and Remote Job Boards
